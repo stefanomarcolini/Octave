@@ -1,6 +1,6 @@
 # Octave
-<p>This repository contains a simple (and basic) set of ml functions written in Octave</p>
-<p>that can be used for prediction and classification problems as an exercise for ml</p>
+<p>This repository contains a simple (and basic) set of ml functions written in Octave,</p>
+<p>as an exercise for ml, that can be used for prediction and classification problems</p>
 <hr>
 
 <h3>ml.m</h3>
