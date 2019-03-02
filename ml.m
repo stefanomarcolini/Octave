@@ -1,4 +1,7 @@
 ##
+# @author stefano marcolini
+# year 2019
+#
 # A simple (basic) set of ml functions
 # written in Octave that can be used for
 # prediction and classification problems
