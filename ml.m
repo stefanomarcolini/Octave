@@ -213,9 +213,9 @@ clear functions
   endfunction;
   
   
-# ==============================
-# GRADIENT DESCENT IMPLEMETATION
-# ==============================
+# ===============================
+# GRADIENT DESCENT IMPLEMENTATION
+# ===============================
   m = length(y);
   n = length(x(1,:));
   c=0;
@@ -395,9 +395,9 @@ clear functions
   clear functions
   endfunction;
 
-# ==============================
-# GRADIENT DESCENT IMPLEMETATION
-# ==============================
+# ===============================
+# GRADIENT DESCENT IMPLEMENTATION
+# ===============================
   m = length(y);
   n = length(t);
   c=0;
